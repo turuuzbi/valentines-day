@@ -267,7 +267,7 @@ function TypewriterText() {
     "Like ocean waves, both wild and free, you pull me in so effortlessly.",
     "If love is light, then you're the sun, a glow that lingers when day is done.",
     "And if the world should fall a part, you'd still be safe within my heart.",
-    "Happy Valentine's Day! ❤️ (also lemme crack)",
+    "Will you be my Valentine? ❤️ (if yes, dm me on instagram if no, dm me on messenger)",
   ];
 
   return (
